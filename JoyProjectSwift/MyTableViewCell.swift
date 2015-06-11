@@ -6,4 +6,8 @@
 //  Copyright (c) 2015年 zhaizy. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class MyTableViewCell:UITableViewCell {
+    
+}
